@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=NetK?_10 Pin=R?-2
+Change Component Footprint: Designator=J? Old Footprint=61301011821 New Footprint=61301411821
+Change Component Comment : Designator=J? Old Comment=61301011821 New Comment=61301411821
+Change Managed Component Library Link : Designator=J? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CF755B73-77B8-4BF3-A226-8A04CDFECC83 New ItemGUID=8B622B80-0766-4076-ABF1-FD6D3A234B7A Old RevisionGUID=979C9ACE-9E0D-4368-95D4-9799D529839B New RevisionGUID=8A966090-858A-47A7-A719-1693C0D4EBB2
+Change component parameters: Designator = "J?" ("J?"); Footprint = "61301011821"; UniqueID = "\BAHATOBB" ("\BAHATOBB")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "61924734"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found OMT125
+Added Component: Designator=U?(ESP_C6_Mini)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin F?-1
+Add Pin To Net: Unknown Pin: Pin F?-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetK?_10 Pin=R?-2
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_2" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_5" already exists
+Add Net: Net with name "NetK?_10" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Added Member To Class: ClassName=MiniBMS Member=Component D? 150080BS75000
+Added Member To Class: ClassName=MiniBMS Member=Component D? 150080BS75000
+Added Member To Class: ClassName=MiniBMS Member=Component D? 150080RS75000
+Added Member To Class: ClassName=MiniBMS Member=Component D? 150080AS75000
+Added Member To Class: ClassName=MiniBMS Member=Component D? 150080GS75000
+Add Class Member: Failed to add class member : Component F? Fuse 1A
+Added Member To Class: ClassName=MiniBMS Member=Component J? 61301411821
+Added Member To Class: ClassName=MiniBMS Member=Component K? G5V-1-DC5
+Added Member To Class: ClassName=MiniBMS Member=Component K? G5V-1-DC5
+Added Member To Class: ClassName=MiniBMS Member=Component P? 691382010004
+Added Member To Class: ClassName=MiniBMS Member=Component P? 691382010004
+Added Member To Class: ClassName=MiniBMS Member=Component P? 691382010004
+Added Member To Class: ClassName=MiniBMS Member=Component Q? NMOS; 40V, 3,6A
+Added Member To Class: ClassName=MiniBMS Member=Component Q? NMOS; 40V, 3,6A
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component R16 Resistor
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res330,0805
+Added Member To Class: ClassName=MiniBMS Member=Component R? Resistor
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res100
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res100,0805
+Added Member To Class: ClassName=MiniBMS Member=Component R? Resistor
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res100,0805
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res10K
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res100
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res5
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res10K
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res100
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res100,0805
+Added Member To Class: ClassName=MiniBMS Member=Component R? Resistor
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res330,0805
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res5k1,0805
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res10K
+Added Member To Class: ClassName=MiniBMS Member=Component R? Res100,0805
+Added Member To Class: ClassName=MiniBMS Member=Component U? ST-NUCLEO-G491RE
+Added Member To Class: ClassName=MiniBMS Member=Component U? EP32_C6_Mini
